@@ -96,7 +96,9 @@
 모든 파일을 제대로 작성한 뒤, 아래의 [1]번 링크의 내용을 참고해 데이터 베이스와 연결한다. 그 후, Application.java 파일에서 프로젝트를 실행시켜 로컬에서 서버를 실행하거나 아래의 [2]번 링크의 내용을 참고해 클라우드에 서버를 올려 실행할 수 있다.
 
 [1] 데이터베이스와 백엔드 서버 연결에 대한 기술 블로그
+
 https://velog.io/@hf92304/Spring-boot-MySQL-데이터베이스-연결하기
 
 [2] Azure Spring Apps 공식 문서
+
 https://learn.microsoft.com/ko-kr/azure/spring-apps/enterprise/quickstart?tabs=Azure-portal%2CIntelliJ%2CConsumption-workload&pivots=sc-enterprise
