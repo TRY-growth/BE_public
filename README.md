@@ -36,11 +36,9 @@
 	pom.xml
 
 
-# GPT 연결
+# OpenAI GPT 
 
-
-## OpenAI GPT 사용
-
+주 사용 기능 
 #### 1. 문장별 오류 잡아내기
 
 사용자가 작성한 답변을 문장별로 분석하여 문법 오류를 찾아낸다. 문법 오류는 종류에 따라 분류된다. 종류는 grammar, clarity, expression, else로 분류되며 오류에 대한 이유, 고쳐야 하는 표현도 함께 제시한다. 
